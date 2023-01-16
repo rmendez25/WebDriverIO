@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Sauce Labs Bike Light\"}\n  (Session info: chrome=109.0.5414.74)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x0106F243]\n\t(No symbol) [0x00FF7FD1]\n\t(No symbol) [0x00EED04D]\n\t(No symbol) [0x00F1C0B0]\n\t(No symbol) [0x00F1C22B]\n\t(No symbol) [0x00F4E612]\n\t(No symbol) [0x00F385D4]\n\t(No symbol) [0x00F4C9EB]\n\t(No symbol) [0x00F38386]\n\t(No symbol) [0x00F1163C]\n\t(No symbol) [0x00F1269D]\n\tGetHandleVerifier [0x01309A22+2655074]\n\tGetHandleVerifier [0x012FCA24+2601828]\n\tGetHandleVerifier [0x01118C0A+619850]\n\tGetHandleVerifier [0x01117830+614768]\n\t(No symbol) [0x010005FC]\n\t(No symbol) [0x01005968]\n\t(No symbol) [0x01005A55]\n\t(No symbol) [0x0101051B]\n\tBaseThreadInitThunk [0x76A700F9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77E07BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77E07B8E+238]\n"
+}
